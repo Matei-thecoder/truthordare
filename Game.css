@@ -1,0 +1,8 @@
+.buttons{
+    width:300px;
+    margin-top: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:10%;
+}
